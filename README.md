@@ -24,11 +24,13 @@ make
 
 ### package w/o any file extensions
 ```
-chmod u+x #make file executable
+chmod u+x programme #make file executable
 ```
 #### to use the executable file
 ```
+~/sharedscratch/apps/programme -h
 ./programme -h
+#or add programme directory to file path
 ```
 #### add programme to file path
 To use programme from any location
