@@ -1,0 +1,10 @@
+mkdir TwoBit
+cd TwoBit
+wget https://hgdownload.cse.ucsc.edu/admin/exe/linux.x86_64/faToTwoBit
+chmod u+x faToTwoBit
+wget https://hgdownload.cse.ucsc.edu/admin/exe/linux.x86_64/twoBitInfo
+chmod u+x twoBitInfo
+
+#http://hgdownload.soe.ucsc.edu/downloads.html#source_downloads
+#and 
+#http://www.genome.ucsc.edu/goldenPath/help/twoBit.html
