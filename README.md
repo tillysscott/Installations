@@ -9,6 +9,14 @@ conda activate enviro_name
 conda install -instructionsfromconda namefromconda
 #conda deactivate
 ```
+```
+conda create -n seqkit
+conda activate seqkit
+conda install -c bioconda seqkit
+```
+```
+conda deactivate
+```
 
 ## Get files
 If you can get a link to the repository
