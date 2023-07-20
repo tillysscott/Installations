@@ -9,14 +9,6 @@ conda activate enviro_name
 conda install -instructionsfromconda namefromconda
 #conda deactivate
 ```
-```
-conda create -n seqkit
-conda activate seqkit
-conda install -c bioconda seqkit
-```
-```
-conda deactivate
-```
 
 ## Get files
 If you can get a link to the repository
@@ -40,10 +32,6 @@ cd progdirectory
 make
 ```
 
-### package without any file extensions
-```
-chmod u+x programme #make file executable
-```
 #### to use the executable file
 ```
 ~/sharedscratch/apps/programme -h
@@ -55,5 +43,9 @@ To use programme from any location
 ```
 PATH=$PATH:~/sharedscratch/apps/programme
 programme -h
+```
+### package without any file extensions
+```
+chmod u+x programme #make file executable
 ```
 
