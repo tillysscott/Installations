@@ -39,7 +39,8 @@ make
 #or add programme directory to file path
 ```
 #### add programme to file path
-To use programme from any location
+To use programme from any location  
+_See_ https://opensource.com/article/17/6/set-path-linux  
 ```
 PATH=$PATH:~/sharedscratch/apps/programme
 programme -h
